@@ -1,6 +1,8 @@
 # Global-Cyber-Champion-2025-2026---Reverse-Engineering-Challenges
 Global Cyber Champion 25–26, hosted by ITI in collaboration with Zinad Company.
 
+![](Gemini_Generated_Image_t5njskt5njskt5nj.png)
+
 # The Writeup of Challenges here:
 
 ## Calc Challenge:
